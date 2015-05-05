@@ -1,4 +1,4 @@
-## [ArcherSys](https://github.com/ArcherSys/ArcherSys ArcherCal Application
+## [ArcherSys](https://github.com/ArcherSys/ArcherSys) ArcherCal Application
 
 ### Steps to use this app:
 
