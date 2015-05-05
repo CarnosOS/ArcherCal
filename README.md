@@ -1,4 +1,4 @@
-## Demo App for [Full Calendar Rails Engine](https://github.com/vinsol/fullcalendar-rails-engine)
+## [ArcherSys](https://github.com/ArcherSys/ArcherSys ArcherCal Application
 
 ### Steps to use this app:
 
@@ -10,4 +10,4 @@
 
 The application is up and running. Migrate to `/calendar` path to see the working of the full calendar rails engine gem.
 
-If you are starting from scratch then make sure that you are using Rails 4 and then follow the instructions given on homepage of **Full Calendar Rails Engine** gem.
+If you are starting from scratch then make sure that you are using Rails 4 and then follow the instructions given on homepage of **ArcherSys Rails ** gem.
